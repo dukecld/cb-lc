@@ -1,5 +1,8 @@
 field,display_name
+objectid,ID
 title,Title
 date,Date
-description,Description
+creator,Creator
+collection, Collection
 subject,Subjects
+location,Location
