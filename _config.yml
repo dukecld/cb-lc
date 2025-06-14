@@ -18,7 +18,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Grinnell College Physics Museum
+title: Grinnell College Physics Museum, prototype 0.0
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Explore the Grinnell College Physics Museum in the Noyce Science Center
 # description appears in meta tags and other locations
@@ -34,7 +34,8 @@ author: Charlie Duke, Professor Emeritus of Physics and Curator of the Physics M
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: pmeta4-24-c
+#metadata: pmeta4-24-c
+metadata: cb-lc-1
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
